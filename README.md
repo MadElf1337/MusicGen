@@ -50,7 +50,7 @@ Running the cells in the interactive notebooks generates a folder named `generat
 
 ## References
 
-For more details on the models and methodologies used, please refer to the paper available [here](https://www.overleaf.com/read/mbrnzybhqxfd#df6fb8).
+For more details on the models and methodologies used, please refer to the whitepaper in the repository.
 
 
 
